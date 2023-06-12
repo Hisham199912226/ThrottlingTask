@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ThrottlingUsingGoogle'sGuava.iml" filepath="$PROJECT_DIR$/.idea/ThrottlingUsingGoogle'sGuava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.throttling.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.throttling.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/throttling.main.iml" filepath="$PROJECT_DIR$/.idea/modules/throttling.main.iml" />
+    </modules>
+  </component>
+</project>
